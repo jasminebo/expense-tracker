@@ -1,0 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
+#total-amount {
+    padding-top: 10px;
+}
